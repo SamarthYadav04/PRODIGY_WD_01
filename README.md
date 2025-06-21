@@ -20,4 +20,4 @@ This project is part of my Prodigy InfoTech Internship.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
